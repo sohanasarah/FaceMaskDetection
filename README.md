@@ -1,14 +1,6 @@
 # FaceMaskDetection
 ML Course Project
 
---- Folder Structure -----
-
---data
---models.py
---mask_detection.py
---train_models.ipynb
---evaluation.ipynb
-
 ----- Instructions---------
 
 - Link to the dataset is given data.txt. Please download the dataset before training the model. The data folder should be on the same folder with all the .py and .ipynb files.
