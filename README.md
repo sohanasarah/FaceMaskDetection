@@ -3,11 +3,11 @@ ML Course Project
 
 --- Folder Structure -----
 
--data
--models.py
--mask_detection.py
--train_models.ipynb
--evaluation.ipynb
+--data
+--models.py
+--mask_detection.py
+--train_models.ipynb
+--evaluation.ipynb
 
 ----- Instructions---------
 
